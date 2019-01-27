@@ -12,6 +12,7 @@
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.4",
     "gamedig": "^2.0.8",
+    "nexe": "^2.0.0-rc.34",
     "opn": "^5.4.0",
     "puppeteer": "^1.11.0",
     "request": "^2.88.0",

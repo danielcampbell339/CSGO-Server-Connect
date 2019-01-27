@@ -57,11 +57,7 @@ class Api
                             // Found a server so now connect to that server
                             inspect("steam://connect/"+result.ip);
 
-                            console.log('woah')
-
-                            // request('steam://connect/'+result.ip, (error, response, body) => {
-                            //     console.log(error)
-                            // });
+                            console.log(result)
                         }
 
                     });

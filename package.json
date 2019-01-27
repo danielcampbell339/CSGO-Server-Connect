@@ -1,0 +1,20 @@
+{
+  "name": "server-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Campbell",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "gamedig": "^2.0.8",
+    "opn": "^5.4.0",
+    "puppeteer": "^1.11.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
